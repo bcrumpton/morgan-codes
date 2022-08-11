@@ -1,0 +1,23 @@
+body {
+  background-color: #f8c9f6;
+  text-align: center;
+}
+
+h1,
+h3 {
+  font-family: "Lobster Two", cursive;
+}
+ul {
+  padding-left: 0;
+}
+li {
+  font-family: "Comfortaa", cursive;
+  padding-bottom: 10px;
+  list-style-type: none;
+}`
+h1 {
+  font-size: 48px;
+}
+span {
+  font-size: 24px;
+}
